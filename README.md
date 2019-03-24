@@ -8,4 +8,8 @@ Recordar que deben reconstruir los módulos de node con el comando
 npm install
 ```
 
-Para ver el uso de los sockets abrir varios navegadores y con la consola de las herramientas del navegador abiertas escribir la función socket.emit('enviarMensaje', {usuario: 'un nombre', mensaje: 'el mensaje que quieras poner'})
+Para ver el uso de los sockets abrir varios navegadores y con la consola de las herramientas del navegador abiertas escribir la función socket.emit('enviarMensaje', {usuario: 'un nombre', mensaje: 'el mensaje que quieras poner'}).
+
+## Producción
+
+la url donde está desplegado en Heroku es: https://sockets-basico-israelbejarano.herokuapp.com/
